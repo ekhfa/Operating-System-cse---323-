@@ -1,1 +1,2 @@
 # A project for operating system course (CSE323)
+A page replacement is needed in operating system when a new page comes in. Different types of algorithm is needed to decide which page needs to be replaced when new page will be required to execute. There comes forward the idea of ‘page fault’. In our project we will implement different page replacement algorithms like First in First out (FIFO), Optimal Page Replacement, and Least Recently Used etc. and after calculating the page fault our program will decide, which algorithm is best for a certain input.
