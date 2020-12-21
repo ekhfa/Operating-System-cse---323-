@@ -1,1 +1,1 @@
-# Operating-System-cse---323-
+# A project for operating system course (CSE323)
